@@ -1,4 +1,4 @@
-# Hi! I'm iovelle!
+# Hi! I'm Vaesia!
 
 I am a freelance software developer specializing in backend automation, custom Discord infrastructure, and Minecraft Fabric Mods.
 
@@ -16,4 +16,4 @@ I am a freelance software developer specializing in backend automation, custom D
 
 ### Let's Work Together
 Need a custom tool built without the monthly hosting fees?
-**Discord:** iovelle.co
+**Discord:** vaesia_
